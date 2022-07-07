@@ -1,1 +1,2 @@
 This is my first text file
+The second line is added to test the modification for second commit 
